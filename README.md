@@ -10,3 +10,6 @@ Feel free to contribute by adding missing services. Please keep the main list so
 #####Suggestions:
 * Sort by popularity - A separate list, sorted by popularity. (i.e. goo.gl, bit.ly, ow.ly)
 
+### License
+"THE BEER-WARE LICENSE" (Revision 42) ([Wikipedia](https://de.wikipedia.org/wiki/Beerware)):   
+Sam Bokai wrote this file. As long as you retain this notice **you can do whatever you want with this stuff**. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return. 2016 Sam Bokai
