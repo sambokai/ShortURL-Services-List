@@ -80,6 +80,7 @@ URLHawk.com
 WapURL.co.uk
 XeeURL.com
 Yep.it
+a.co
 a.gg
 a.nf
 a0.fr
