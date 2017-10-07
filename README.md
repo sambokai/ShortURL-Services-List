@@ -7,7 +7,7 @@ A lot of the entries are deprecated. They are left in the list due to legacy-usa
 ### Contributions
 Please keep the main list sorted alphabetically AND remove duplicates. [Sort & duplicate-removal tool](alphabetizer.flap.tv/)
 
-#####Suggestions:
+####Suggestions:
 * Sort by popularity - A separate list, sorted by popularity. (i.e. goo.gl, bit.ly, ow.ly)
 
 ### License
