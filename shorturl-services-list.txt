@@ -338,6 +338,7 @@ net.ms
 net46.net
 nicou.ch
 nig.gr
+niny.io
 njx.me
 nn.nf
 notlong.com
@@ -635,4 +636,3 @@ zxq.net
 zyva.org
 zz.gd
 zzb.bz
-niny.io
