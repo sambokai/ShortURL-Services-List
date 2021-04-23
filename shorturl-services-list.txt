@@ -39,6 +39,7 @@
 8u.cz
 944.la
 98.to
+9m.no
 9qr.de
 AltURL.com
 BudURL.com
@@ -190,6 +191,7 @@ e37.eu
 ecra.se
 eepurl.com
 ely.re
+emojilink.me
 erax.cz
 erw.cz
 ewerl.com
@@ -469,6 +471,7 @@ sux.cz
 sy.pe
 t.cn
 t.co
+t.ly
 ta.gd
 tabzi.com
 tau.pe
@@ -595,6 +598,9 @@ xav.cc
 xgd.in
 xib.me
 xl8.eu
+xn--ki8h.ws
+xn--kn8h.to
+xn--vi8hl0c.ws
 xoe.cz
 xr.com
 xrl.in
