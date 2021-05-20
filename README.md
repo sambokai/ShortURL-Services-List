@@ -5,7 +5,7 @@ A curated list of 600+ Short-URL services (i.e goo.gl, bit.ly)
 A lot of the services are deprecated. They are left in the list due to legacy-usage and completeness.
 
 #### Contributions
-Please keep the main list sorted alphabetically and duplicate free. [You can use this tool for that.](http://alphabetizer.flap.tv/)
+Please keep the main list sorted alphabetically and free of duplicates, e.g. by using [this tool.](http://alphabetizer.flap.tv/)
 
 #### License
 "THE BEER-WARE LICENSE" (Revision 42) ([Wikipedia](https://en.wikipedia.org/wiki/Beerware)):   
