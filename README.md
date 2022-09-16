@@ -2,7 +2,7 @@
 A curated list of 600+ Short-URL services (i.e goo.gl, bit.ly)
 
 #### Note
-A lot of the services are deprecated. They are left in the list due to legacy-usage and completeness.
+A lot of the entries are out of service. They are left in the list due to legacy-usage and completeness.
 
 #### Contributions
 Please keep the main list sorted alphabetically and free of duplicates, e.g. by using [this tool.](http://alphabetizer.flap.tv/)
